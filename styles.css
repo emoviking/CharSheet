@@ -1,0 +1,88 @@
+.container {
+  text-align: left;
+  height: auto;
+  width: 90%;
+  margin: 0 20px;
+}
+
+.pageHeader {
+  width: auto;
+  text-align: center;
+  color: white;
+  background-color: black;
+  font-size: 4rem;
+}
+
+.playerWritten {
+  font-size: 1.2rem;
+  height: auto;
+  margin-left: 200px;
+  width: 20%;
+  float: left;
+}
+
+.playerWritten input {
+  width: 100%;
+}
+
+.playerFillable {
+  margin-left: 50px;
+  width: 50%;
+  height: auto;
+  float: left;
+}
+
+.statHeader {
+  color: white;
+  background-color: grey;
+  text-align: center;
+  width: 30%;
+  font-size: 2rem;
+}
+
+.subStatHeader {
+  color: white;
+  background-color: grey;
+  text-align: center;
+  margin-top: 0;
+}
+
+.playerFillable input {
+  width: 50%;
+}
+
+.value {
+  width: 20%;
+  text-align: center;
+}
+
+.level {
+  width: 20%;
+  text-align: center;
+}
+
+.shortC {
+  width: auto;
+  text-align: center;
+}
+
+.total {
+  width: 20%;
+  text-align: center;
+}
+.currentHealthWritten{
+  text-align: center;
+  width: auto;
+}
+.currentEnergyWritten{
+  text-align: center;
+  width: auto;
+}
+.derived{
+  text-align: center;
+  background-color: grey;
+  color: white;
+}
+.bold{
+  font-size: 1.4rem;
+}
